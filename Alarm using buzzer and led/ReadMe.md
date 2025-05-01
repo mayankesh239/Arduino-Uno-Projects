@@ -19,5 +19,5 @@ This project is a simple alarm system built using an Arduino, a buzzer, and an L
 *  Arduino IDE: Download from https://www.arduino.cc/en/software
 *  Arduino USB drivers (automatically installed with IDE)
 ---
-
+https://github.com/user-attachments/assets/b2d9b5c1-59e6-42be-a0a1-5de61a5de52b
 
