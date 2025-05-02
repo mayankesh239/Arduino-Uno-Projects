@@ -18,8 +18,5 @@ This project demonstrates how to use a 7-segment LED display with an Arduino to 
 ---
 
 
-
-https://github.com/user-attachments/assets/70e63a76-1bf3-473a-a6cb-3d17a2c803de
-
-
+https://github.com/user-attachments/assets/9bbf2335-e893-4dd8-97eb-e2339df96d2b
 
