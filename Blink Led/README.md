@@ -7,10 +7,13 @@ This is a simple Arduino project to blink an LED at regular intervals. It’s of
 *  Arduino Uno R3 CH340G ATmega328p Development Board
 *  USB cable for programming the board
 *  LED
+*  Breadboard
+*  Jumper wires
+*  1kΩ Resistor
 
 💻 Software
 *  Arduino IDE: Download from https://www.arduino.cc/en/software
 *  Arduino USB drivers (automatically installed with IDE)
 ---
-https://github.com/user-attachments/assets/f8215d9c-e5d2-4f68-a593-f6b95a37ebcb
+https://github.com/user-attachments/assets/52b9dc39-23d9-4092-bdac-006c4467bb8c
 
