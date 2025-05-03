@@ -1,8 +1,11 @@
 🔷 Arduino Uno R3 CH340G ATmega328P – Development Board Overview
 ---
+
 ✅ What is it?
+
 The Arduino Uno R3 CH340G is a clone version of the original Arduino Uno R3.
 It uses the same ATmega328P microcontroller, but replaces the original ATmega16U2 USB-to-serial converter with a CH340G chip — which is cheaper and widely used in clones.
+
 ---
 
 🔩 Key Features
@@ -24,12 +27,13 @@ It uses the same ATmega328P microcontroller, but replaces the original ATmega16U
 
 Some projects made using Arduino Uno R3 CH340G ATmega328p Development Board:
 
-https://github.com/user-attachments/assets/6d798d9d-ee69-48fc-a217-e2eb2dafac3d  
 
 https://github.com/user-attachments/assets/254264bc-33a3-43ab-b905-f579833c780f
+
+https://github.com/user-attachments/assets/9bbf2335-e893-4dd8-97eb-e2339df96d2b
+
+https://github.com/user-attachments/assets/6d798d9d-ee69-48fc-a217-e2eb2dafac3d  
 
 https://github.com/user-attachments/assets/52b9dc39-23d9-4092-bdac-006c4467bb8c
 
 https://github.com/user-attachments/assets/83610e4a-d9a3-40b6-826a-2babf7a78aea
-
-https://github.com/user-attachments/assets/9bbf2335-e893-4dd8-97eb-e2339df96d2b
