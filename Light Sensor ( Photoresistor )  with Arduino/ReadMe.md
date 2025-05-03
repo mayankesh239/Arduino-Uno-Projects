@@ -1,6 +1,6 @@
 ### 💡 Light-Activated LED with Arduino (Photoresistor)
 
-This project uses a photoresistor (LDR) to detect light levels. When it gets dark (light level falls below a threshold), an LED automatically turns on, simulating a basic light-activated system like street lights or motionless alarms.
+This project uses a photoresistor (LDR) to detect light levels. When it gets dark (light level falls below a threshold), an LED automatically turns on, simulating a basic light-activated system like street lights or motionless alarms. Used UART for serial communication.
 
 ---
 
