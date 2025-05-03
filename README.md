@@ -37,3 +37,17 @@ https://github.com/user-attachments/assets/6d798d9d-ee69-48fc-a217-e2eb2dafac3d
 https://github.com/user-attachments/assets/52b9dc39-23d9-4092-bdac-006c4467bb8c
 
 https://github.com/user-attachments/assets/83610e4a-d9a3-40b6-826a-2babf7a78aea
+
+About ATmega328P Microcontroller
+
+The ATmega328P is an 8-bit AVR microcontroller developed by Atmel (now Microchip Technology). It is one of the most widely used microcontrollers, especially known for powering the Arduino Uno board.
+
+---
+
+Internal Architecture
+
+*  CPU: 8-bit RISC core, executes most instructions in 1 clock cycle.
+*  Memory Map: Separate areas for Flash, SRAM, EEPROM.
+*  Peripherals: ADC, timers, USART, I²C, SPI, watchdog timer, external/internal interrupts.
+
+---
